@@ -1,0 +1,15 @@
+Commands
+// Start a new project 
+  >>>: npm init
+
+// install express 
+  >>>: npm install express --save
+
+// install nodemon
+  >>>: npm install nodemon --save-dev
+
+// Run app using nodemon 
+  >>>: nodemon index.js
+
+// install socket.io
+  >>>: npm install socket.io --save
